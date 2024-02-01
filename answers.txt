@@ -1,2 +1,2 @@
 Ans a)
-Product manager is the equivalent to product owner in a non-agile project. The role and need of the project owner is prioritizing and overseeing the development team's tasks and making sure the company derives as much value as possible from the team's work. 
+Product manager is the equivalent to product owner in a non-agile project. The role and need of the project owner is prioritizing and overseeing the development team's tasks and making sure the company derives as much value as possible from the team's work
