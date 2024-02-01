@@ -17,3 +17,12 @@ Sprint Retrospective:
 Scrum meeting:
   -Daily meetings to discuss what was completed yesterday,
   -Daily meetings to discuss what will be completed today and any blockers.
+
+Ans d)
+Epic: Captures a large body of work that can be broken down into several smaller stories.
+
+Story: A software system requirement that is expressed in a few short sentences.
+
+Bug: Used to track defects or problems with the software or system.
+
+Task: Represents a task that needs to be done
